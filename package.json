@@ -1,0 +1,17 @@
+{
+  "name": "fed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "./start.sh"
+  },
+  "dependencies": {
+    "@apollo/federation": "^0.22.0",
+    "@apollo/gateway": "^0.24.4",
+    "apollo-server": "^2.21.1",
+    "graphql": "^15.5.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.3"
+  }
+}
